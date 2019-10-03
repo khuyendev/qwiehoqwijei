@@ -1,15 +1,15 @@
 {
-  "main.css": "https://khuyendev.github.io/qwiehoqwijei/static/css/main.3f8d134d.chunk.css",
-  "main.js": "https://khuyendev.github.io/qwiehoqwijei/static/js/main.10186ea0.chunk.js",
-  "main.js.map": "https://khuyendev.github.io/qwiehoqwijei/static/js/main.10186ea0.chunk.js.map",
-  "static/js/1.9fb96187.chunk.js": "https://khuyendev.github.io/qwiehoqwijei/static/js/1.9fb96187.chunk.js",
-  "static/js/1.9fb96187.chunk.js.map": "https://khuyendev.github.io/qwiehoqwijei/static/js/1.9fb96187.chunk.js.map",
-  "runtime~main.js": "https://khuyendev.github.io/qwiehoqwijei/static/js/runtime~main.64f2514b.js",
-  "runtime~main.js.map": "https://khuyendev.github.io/qwiehoqwijei/static/js/runtime~main.64f2514b.js.map",
-  "static/css/main.3f8d134d.chunk.css.map": "https://khuyendev.github.io/qwiehoqwijei/static/css/main.3f8d134d.chunk.css.map",
-  "telegram.worker.62f3609815ec2edd2aa1.js": "https://khuyendev.github.io/qwiehoqwijei/telegram.worker.62f3609815ec2edd2aa1.js",
-  "telegram.worker.62f3609815ec2edd2aa1.js.map": "https://khuyendev.github.io/qwiehoqwijei/telegram.worker.62f3609815ec2edd2aa1.js.map",
-  "index.html": "https://khuyendev.github.io/qwiehoqwijei/index.html",
-  "precache-manifest.5fac83dc3ddaa2512a8cba5e769b9c27.js": "https://khuyendev.github.io/qwiehoqwijei/precache-manifest.5fac83dc3ddaa2512a8cba5e769b9c27.js",
-  "service-worker.js": "https://khuyendev.github.io/qwiehoqwijei/service-worker.js"
+  "main.css": "/qwiehoqwijei/static/css/main.ad2ccea9.chunk.css",
+  "main.js": "/qwiehoqwijei/static/js/main.4532771a.chunk.js",
+  "main.js.map": "/qwiehoqwijei/static/js/main.4532771a.chunk.js.map",
+  "static/js/1.73a7dc24.chunk.js": "/qwiehoqwijei/static/js/1.73a7dc24.chunk.js",
+  "static/js/1.73a7dc24.chunk.js.map": "/qwiehoqwijei/static/js/1.73a7dc24.chunk.js.map",
+  "runtime~main.js": "/qwiehoqwijei/static/js/runtime~main.77214b68.js",
+  "runtime~main.js.map": "/qwiehoqwijei/static/js/runtime~main.77214b68.js.map",
+  "static/css/main.ad2ccea9.chunk.css.map": "/qwiehoqwijei/static/css/main.ad2ccea9.chunk.css.map",
+  "telegram.worker.39f8ddc5e65050df02e1.js": "/qwiehoqwijei/telegram.worker.39f8ddc5e65050df02e1.js",
+  "telegram.worker.39f8ddc5e65050df02e1.js.map": "/qwiehoqwijei/telegram.worker.39f8ddc5e65050df02e1.js.map",
+  "index.html": "/qwiehoqwijei/index.html",
+  "precache-manifest.14c1f66136e427a42237a308683559bb.js": "/qwiehoqwijei/precache-manifest.14c1f66136e427a42237a308683559bb.js",
+  "service-worker.js": "/qwiehoqwijei/service-worker.js"
 }

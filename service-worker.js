@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://khuyendev.github.io/qwiehoqwijei/precache-manifest.5fac83dc3ddaa2512a8cba5e769b9c27.js"
+  "/qwiehoqwijei/precache-manifest.14c1f66136e427a42237a308683559bb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("https://khuyendev.github.io/qwiehoqwijei/index.html", {
+workbox.routing.registerNavigationRoute("/qwiehoqwijei/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
