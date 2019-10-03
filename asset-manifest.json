@@ -1,7 +1,7 @@
 {
   "main.css": "/qwiehoqwijei/static/css/main.e97eef04.chunk.css",
-  "main.js": "/qwiehoqwijei/static/js/main.9b446e7c.chunk.js",
-  "main.js.map": "/qwiehoqwijei/static/js/main.9b446e7c.chunk.js.map",
+  "main.js": "/qwiehoqwijei/static/js/main.036fbd95.chunk.js",
+  "main.js.map": "/qwiehoqwijei/static/js/main.036fbd95.chunk.js.map",
   "static/js/1.dbb24cbb.chunk.js": "/qwiehoqwijei/static/js/1.dbb24cbb.chunk.js",
   "static/js/1.dbb24cbb.chunk.js.map": "/qwiehoqwijei/static/js/1.dbb24cbb.chunk.js.map",
   "runtime~main.js": "/qwiehoqwijei/static/js/runtime~main.77214b68.js",
@@ -10,6 +10,6 @@
   "telegram.worker.39f8ddc5e65050df02e1.js": "/qwiehoqwijei/telegram.worker.39f8ddc5e65050df02e1.js",
   "telegram.worker.39f8ddc5e65050df02e1.js.map": "/qwiehoqwijei/telegram.worker.39f8ddc5e65050df02e1.js.map",
   "index.html": "/qwiehoqwijei/index.html",
-  "precache-manifest.3691a1a7a03bb98f55dcd79780a1540f.js": "/qwiehoqwijei/precache-manifest.3691a1a7a03bb98f55dcd79780a1540f.js",
+  "precache-manifest.dabe45ae125904df4a5187181ad2358b.js": "/qwiehoqwijei/precache-manifest.dabe45ae125904df4a5187181ad2358b.js",
   "service-worker.js": "/qwiehoqwijei/service-worker.js"
 }
