@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+$grid-offset-step: 5px;
+
+:root {
+  --theme-main-font: "Lato", sans-serif;
+  --theme-font-size: 16px;
+  --theme-text-color: #222222;
+  --theme-text-color-light: #{lighten(#222222, 30%)};
+  --theme-color-gray: #d3d3d3;
+  --theme-color-primary: #34abeb;
+  --theme-color-primary-light: #{rgba(#34abeb, 0.5)};
+  --theme-color-secondary: #29e6a6;
+  --theme-color-white: #ffffff;
+}
