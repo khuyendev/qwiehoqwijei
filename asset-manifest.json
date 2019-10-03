@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.3f8d134d.chunk.css",
-  "main.js": "/static/js/main.eebd2b68.chunk.js",
-  "main.js.map": "/static/js/main.eebd2b68.chunk.js.map",
-  "static/js/1.9fb96187.chunk.js": "/static/js/1.9fb96187.chunk.js",
-  "static/js/1.9fb96187.chunk.js.map": "/static/js/1.9fb96187.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.02d611fa.js",
-  "runtime~main.js.map": "/static/js/runtime~main.02d611fa.js.map",
-  "static/css/main.3f8d134d.chunk.css.map": "/static/css/main.3f8d134d.chunk.css.map",
-  "telegram.worker.95f1a5b172760aa3843b.js": "/telegram.worker.95f1a5b172760aa3843b.js",
-  "telegram.worker.95f1a5b172760aa3843b.js.map": "/telegram.worker.95f1a5b172760aa3843b.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.b050dcc8ada33d4514b87695c580d546.js": "/precache-manifest.b050dcc8ada33d4514b87695c580d546.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/qwiehoqwijei/static/css/main.3f8d134d.chunk.css",
+  "main.js": "/qwiehoqwijei/static/js/main.274828a0.chunk.js",
+  "main.js.map": "/qwiehoqwijei/static/js/main.274828a0.chunk.js.map",
+  "static/js/1.9fb96187.chunk.js": "/qwiehoqwijei/static/js/1.9fb96187.chunk.js",
+  "static/js/1.9fb96187.chunk.js.map": "/qwiehoqwijei/static/js/1.9fb96187.chunk.js.map",
+  "runtime~main.js": "/qwiehoqwijei/static/js/runtime~main.77214b68.js",
+  "runtime~main.js.map": "/qwiehoqwijei/static/js/runtime~main.77214b68.js.map",
+  "static/css/main.3f8d134d.chunk.css.map": "/qwiehoqwijei/static/css/main.3f8d134d.chunk.css.map",
+  "telegram.worker.91f1e8b224efe4516115.js": "/qwiehoqwijei/telegram.worker.91f1e8b224efe4516115.js",
+  "telegram.worker.91f1e8b224efe4516115.js.map": "/qwiehoqwijei/telegram.worker.91f1e8b224efe4516115.js.map",
+  "index.html": "/qwiehoqwijei/index.html",
+  "precache-manifest.8cc62b74df12feea7ec047bc226249d2.js": "/qwiehoqwijei/precache-manifest.8cc62b74df12feea7ec047bc226249d2.js",
+  "service-worker.js": "/qwiehoqwijei/service-worker.js"
 }
